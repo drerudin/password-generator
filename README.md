@@ -1,4 +1,7 @@
 # Password Generator Starter Code
+
+https://drerudin.github.io/password-generator/
+
 Simple password generator using 4 different arrays.
 
 User chooses what to include in the password and how long the password will be via prompts.
